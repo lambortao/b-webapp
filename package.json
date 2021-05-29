@@ -1,8 +1,9 @@
 {
-  "name": "b test",
+  "name": "b-webapp",
   "version": "1.0.0",
   "description": "一个基础的webapp项目",
   "private": true,
+  "keywords": ["generator-b-webapp"],
   "sideEffects": [
     "*.css",
     "*.scss",
